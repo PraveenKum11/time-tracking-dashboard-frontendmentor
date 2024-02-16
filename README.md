@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-with-loading-animation-upbOLejlWt)
+- Live Site URL: [Live site URL](https://praveenkum11.github.io/time-tracking-dashboard-frontendmentor/)
 
 ## My process
 
