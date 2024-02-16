@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+
+    --clr-p-blue: hsl(246, 80%, 60%) --clr-light-red-work: hsl(15, 100%, 70%);
+    --clr-p-soft-blue-play: hsl(195, 74%, 62%);
+    --clr-p-light-red-study: hsl(348, 100%, 68%);
+    --clr-p-lime-green-exercise: hsl(145, 58%, 55%);
+    --clr-p-violet-social: hsl(264, 64%, 52%);
+    --clr-p-soft-orange-selfcare: hsl(43, 84%, 65%);
+
+    --clr-n-very-dark-blue: hsl(226, 43%, 10%);
+    --clr-n-dark-blue: hsl(235, 46%, 20%);
+    --clr-n-desaturated-blue: hsl(235, 45%, 61%);
+    --clr-n-pale-blue: hsl(236, 100%, 87%);
+
+    --font-family-default: "Rubik", sans-serif;
+
+    --fw-light: 300;
+    --fw-regular: 400;
+    --fw-bold: 500;
+
+    --fs-300: 1rem;
+    --fs-400: 1.125rem;
+    --fs-500: 1.25rem;
+}
+
+/* CSS Resets */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+}
